@@ -19,7 +19,7 @@ include "Pessoa.php";
     <script src="assests/js/main.js"></script>
 </head>
 <body>
-  <?php include('formularioCOntato.php');
+  <?php include('formularioContato.php');
    $exibir_tabela = true; 
    ?>
 

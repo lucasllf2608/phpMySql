@@ -2,7 +2,7 @@
 
 <form>
        <fieldset>
-            <legend>Dados Contato</legend>
+            <legend>Dados do Contato</legend>
         <p>
         <label>Nome</label>
         <input type="text" id="nome" name="nome"/>
