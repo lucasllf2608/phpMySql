@@ -1,7 +1,7 @@
 <?php 
 session_start();
 
-include "banco.php";
+include "config/banco.php";
 include "Pessoa.php";
 
 
