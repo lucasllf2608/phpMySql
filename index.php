@@ -1,4 +1,8 @@
 <?php 
-echo "Hello World";
+
+$pageTarget = "login.php";
+
+header("Location:".$page);
+exit();
 
 ?>
