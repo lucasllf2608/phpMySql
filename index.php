@@ -1,8 +1,8 @@
 <?php 
 
-$pageTarget = "login.php";
+$pageTarget = " view/login.php";
 
-header("Location:".$page);
+header("Location:".$pageTarget);
 exit();
 
 ?>
